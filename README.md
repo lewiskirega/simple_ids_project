@@ -46,7 +46,7 @@ simple_ids_project/
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/lewiskirega/simple_ids_project.git
    cd simple_ids_project
    ```
 
